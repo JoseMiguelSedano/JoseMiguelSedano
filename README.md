@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola 👋, bienvenido a mi perfil 🛜
 
-<!--
-**JoseMiguelSedano/JoseMiguelSedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Sistemas de Información** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**, actualmente cursando el **4to ciclo**.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 💻 **Enfoque actual:** Conocimientos en Programación Orientada a Objetos (POO) en **Python**.
+- 🛠️ **Áreas de interés:** Diseño y gestión de **Bases de Datos**.
+- 📚 **Aprendiendo:** Arquitectura de Computadoras y Fundamentos de Sistemas Operativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Lenguajes y Tecnologías
+- **Lenguajes:** Python
+- **Herramientas:** Git, GitHub
+- **Bases de Datos:** SQL Server
+
+### 🤝 Habilidades blandas
+- 📌 Organización y gestión de tareas
+- 🤝 Compromiso en proyectos
+- 💬 Comunicación efectiva y trabajo en equipo
+
+📫 **Contacto:** [LinkedIn](https://linkedin.com/in/josé-miguel-sedano-velásquez) | `sedanojosemiguel@gmail.com`
